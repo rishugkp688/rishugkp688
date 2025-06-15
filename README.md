@@ -44,8 +44,8 @@ I'm always up for meaningful collaborations, especially in:
 
 ## 📊 GitHub Stats
 
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishugkp688&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishugkp688&layout=compact&theme=radical)
 
 ---
 
