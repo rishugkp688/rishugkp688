@@ -38,7 +38,7 @@ I'm always up for meaningful collaborations, especially in:
 
 📫 You can reach me here:
 - [LinkedIn](https://www.linkedin.com/in/rishabh-singh-cse/)
-- 📧 rishugkp688@gmail.com
+- rishugkp688@gmail.com
 
 ---
 
