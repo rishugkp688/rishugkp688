@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">
+<h1 style="text-align: center; margin: 0; padding: 0;">
   <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Rishabh+Singh" alt="Title GitHub Readme" />
   </a>
