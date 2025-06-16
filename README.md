@@ -16,7 +16,7 @@
 - ⚙️ I'm diving deep into **DevOps** tools and practices.
 - 🧠 I enjoy writing efficient and scalable **backend systems**.
 - 🎮 I occasionally tinker with **game development using Godot**.
-- 🐧 I’m a proud **Linux enthusiast** – Mint and Arch are my go-to distros!
+- 🐧 I’m a proud **Linux enthusiast** – I use Mint and Arch BTW
 
 ---
 
