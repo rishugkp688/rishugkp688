@@ -30,7 +30,7 @@
 
 ## 🚀 Highlight Project
 
-🔧 *Coming soon:* A cybersecurity tool that scans systems for misconfigurations and suggests automated fixes — think of it as your personal Linux hardening assistant. Stay tuned!
+🔧 *Coming soon:* Working on a new game, let's see how it goes. Stay tuned!
 
 ---
 
